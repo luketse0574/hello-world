@@ -1,2 +1,8 @@
 # hello-world
-first try 
+Hi, humans
+
+This is Luke from China.
+It's my first try on github.
+
+
+
